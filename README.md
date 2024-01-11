@@ -19,5 +19,5 @@
 
 
 
-![](https://github.com/MaiDinhVinh/MaiDinhVinh/blob/main/image0.gif)
+<img align="right" width="100" height="100" src="https://github.com/MaiDinhVinh/MaiDinhVinh/blob/main/image0.gif">
 
