@@ -1,10 +1,11 @@
-### Welcome to the ricefield (VN) 👋
-
 ![](https://github.com/MaiDinhVinh/MaiDinhVinh/blob/main/sky2.png)
 
 
 
 
+
+
+### Welcome to the ricefield (VN) 👋
 - 😎 Nickname: VinhDev
 - ☠ A typical highschool student
 - 🤓 Average Trigonometry Enjoyer
