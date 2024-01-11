@@ -19,5 +19,5 @@
 
 
 
-<img align="right" width="350" height="350" src="https://github.com/MaiDinhVinh/MaiDinhVinh/blob/main/image0.gif">
+<img align="right" width="300" height="300" src="https://github.com/MaiDinhVinh/MaiDinhVinh/blob/main/image0.gif">
 
