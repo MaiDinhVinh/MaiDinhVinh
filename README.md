@@ -11,6 +11,8 @@
 - 🤓 Average Trigonometry Enjoyer
 - 🖥 FPT Software Club member !!!
 - 🍎 Average Physic Enjoyer =))))
+- 🎮 Favorite game: Minecraft, CS2, Geometry Dash
+- 🏸 Badminton Defender (Lining enjoyer - Halbertec 8000)
 
 
 
