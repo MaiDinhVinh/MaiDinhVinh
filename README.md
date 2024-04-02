@@ -18,8 +18,8 @@
 
 
 
-__My Website:__ **vinhdev.vn (coming soon)**
-__Business Contact:__ **contact@vinhdev.vn**
+- __My Website:__ *https://vinhdev.vn/* (coming soon)
+- __Business Contact:__ *contact@vinhdev.vn*
 
 
 
