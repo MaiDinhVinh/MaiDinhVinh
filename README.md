@@ -1,4 +1,4 @@
-![](https://github.com/MaiDinhVinh/MaiDinhVinh/blob/main/Vinhdeaf2.png)
+![](https://github.com/MaiDinhVinh/MaiDinhVinh/blob/main/Vinhdeaf2-removebg.png)
 
 
 
