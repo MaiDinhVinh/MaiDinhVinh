@@ -6,7 +6,7 @@
 
 
 ### Welcome to the ricefield (VN) 👋
-- 😎 Nickname: DucksaberVN
+- 😎 Nickname: DucksaberVN or VinhDev
 - ☠ A typical highschool student
 - 🤓 Average Trigonometry Enjoyer
 - 🖥 FPT Software Club member !!!
