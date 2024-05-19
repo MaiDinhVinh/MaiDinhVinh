@@ -18,7 +18,7 @@
 
 
 
-- ♿ __My Website:__ *https://vinhdev.vn/* (goofy ahh pfp website coming soon)
+- ♿ __My Website:__ *https://vinhdev.vn/* (under construction)
 - ✉ __Business Contact:__ *admin.ducksabervn@vinhdev.vn*
 
 
