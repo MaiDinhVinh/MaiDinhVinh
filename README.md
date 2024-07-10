@@ -21,6 +21,11 @@
 - ♿ __My Website:__ *https://vinhdev.vn/* (under construction)
 - ✉ __Business Contact:__ *admin.ducksabervn@vinhdev.vn*
 
+```
+public static void main(String[] args){
+  
+}
+```
 
 
 
