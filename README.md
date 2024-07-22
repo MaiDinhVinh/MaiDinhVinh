@@ -19,7 +19,7 @@
 
 
 - ♿ __My Website:__ *https://vinhdev.vn/* (under construction)
-- ✉ __Business Contact:__ *admin.ducksabervn@vinhdev.vn*
+- ✉ __Business Contact:__ *ducksabervn@vinhdev.vn*
 
 
 
