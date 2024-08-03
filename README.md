@@ -31,11 +31,11 @@ class READMEMechanism {
         this.govermentName = "MaiDinhVinh";
         this.nickName = "😎 Nickname: DucksaberVN or VinhDev";
         this.whoAmI = "☠ A typical highschool student";
-        this.favoriteSubject = "\uD83D\uDC80 Physic enjoyer, CS lover, Mathematic hater (tho im good at math, idk)";
+        this.favoriteSubject = "Physic enjoyer, CS lover, Mathematic hater (tho im good at math, idk)";
         this.whichClubImIn = "🖥 FPT Software Club";
-        this.favoriteGame = "\uD83C\uDFAE Favorite game: Minecraft, CS2, Geometry Dash";
-        this.favoriteSport = "\uD83C\uDFF8 Retired Badminton Defender (Arcsaber 11 Pro - Halbertec 8000)";
-        this.currentSkill = "♨\uFE0F Java Core (Prepare for upcoming Java Certified Professional Dev)";
+        this.favoriteGame = "Favorite game: Minecraft, CS2, Geometry Dash";
+        this.favoriteSport = "Retired Badminton Defender (Arcsaber 11 Pro - Halbertec 8000)";
+        this.currentSkill = "♨ Java Core (Prepare for upcoming Java Certified Professional Dev)";
         this.contactEmail = "ducksabervn@vinhdev.vn";
         this.personalWebsite = "vinhdev.vn (underconstruction)";
     }
@@ -65,6 +65,8 @@ public class README{
         READMEMechanism VinhDev = new READMEMechanism();
         VinhDev.addAttribute();
         VinhDev.getMyProfile();
+        System.out.println("lol");
     }
 }
+
 ```
