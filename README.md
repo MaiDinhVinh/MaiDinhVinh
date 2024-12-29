@@ -1,63 +1,45 @@
 ```java
+import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;
-class READMEMechanism {
-    private String welcomingSlogan;
-    private String govermentName;
-    private String nickName;
-    private String whoAmI;
-    private String favoriteSubject;
-    private String whichClubImIn;
-    private String favoriteGame;
-    private String favoriteSport;
-    private String currentSkill;
-    private String contactEmail;
-    private String personalWebsite;
-    private List<String> myGitProfile = new ArrayList<>();
+public interface DucksaberVN{
+
+    public static final String WELCOMING_SLOGAN = "Welcome to the ricefield (VN) 👋";
+
+    public static final String GOVERNMENT_NAME = "MaiDinhVinh";
+
+    public static final String NICKNAME = "😎 Nickname: DucksaberVN (Formerlly known as \"VinhDev\")";
+
+    public static final String WHO_AM_I = "☠ A typical highschool student";
+
+    public static final String FAVORITE_SUBJECT = "Physic hater, CS lover, Mathematic enjoyer";
+
+    /**
+     * I will try to obtain the famous {@code Oracle Certified Professional Java SE 8 (1z0-809)} in the future too !*/
+
+    public static final List<String> CURRENT_CERTIFIED_SKILL =  Arrays.asList(
+            "Oracle Certified Foundation Associate Java SE 8 (1z0-811)",
+            "Oracle Certified Associate Java SE 8 (1z0-808)"
+    );
+
+    public static final List<String> CURRENT_SKILL = Arrays.asList(
+            "Java SE 8", "MySQL (a bit)", "Python (Mainly for AI stuff)"
+    );
+
+    public static final List<String> CURRENT_PROJECT = Arrays.asList(
+            "TinyTensor(1st Season) as Hanoi Area Director"
+    );
 
 
+    public static final List<String> FAVORITE_GAME = Arrays.asList(
+      "Minecraft", "Geometry Dash", "CS2 (a bit)", "Smash Hit",
+      "A dance of ice and fire"
+    );
 
+    public static final String FAVORITE_SPORT = "Retired Badminton Defender (Arcsaber 11 Pro - Halbertec 8000)";
 
-    public READMEMechanism(){
-        this.welcomingSlogan = "Welcome to the ricefield (VN) 👋";
-        this.govermentName = "MaiDinhVinh";
-        this.nickName = "😎 Nickname: DucksaberVN or VinhDev";
-        this.whoAmI = "☠ A typical highschool student";
-        this.favoriteSubject = "Physic enjoyer, CS lover, Mathematic hater (tho im good at math, idk)";
-        this.whichClubImIn = "🖥 FPT Software Club";
-        this.favoriteGame = "Favorite game: Minecraft, CS2, Geometry Dash";
-        this.favoriteSport = "Retired Badminton Defender (Arcsaber 11 Pro - Halbertec 8000)";
-        this.currentSkill = "♨ Java Core (Prepare for upcoming Java Certified Professional Dev)";
-        this.contactEmail = "ducksabervn@vinhdev.vn";
-        this.personalWebsite = "vinhdev.vn (underconstruction)";
-    }
+    public static final String CONTACT_EMAIL = "business@ducksabervn.com";
 
-    public void addAttribute(){
-        this.myGitProfile.add(this.welcomingSlogan);
-        this.myGitProfile.add(this.govermentName);
-        this.myGitProfile.add(this.nickName);
-        this.myGitProfile.add(this.whoAmI);
-        this.myGitProfile.add(this.favoriteSubject);
-        this.myGitProfile.add(this.whichClubImIn);
-        this.myGitProfile.add(this.favoriteGame);
-        this.myGitProfile.add(this.favoriteSport);
-        this.myGitProfile.add(this.currentSkill);
-        this.myGitProfile.add(this.contactEmail);
-        this.myGitProfile.add(this.personalWebsite);
-    }
-
-
-    public void getMyProfile(){
-        this.myGitProfile.forEach(m -> System.out.println(m));
-    }
-}
-
-public class README{
-    public static void main(String[] args) {
-        READMEMechanism VinhDev = new READMEMechanism();
-        VinhDev.addAttribute();
-        VinhDev.getMyProfile();
-        System.out.println("lol");
-    }
+    public static final String PERSONAL_WEBSITE = "ducksabervn.com OR vinhdev.vn";
 }
 ```
